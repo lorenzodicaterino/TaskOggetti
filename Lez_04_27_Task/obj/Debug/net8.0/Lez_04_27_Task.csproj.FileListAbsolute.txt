@@ -1,0 +1,14 @@
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.AssemblyInfo.cs
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\bin\Debug\net8.0\Lez_04_27_Task.exe
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\bin\Debug\net8.0\Lez_04_27_Task.deps.json
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\bin\Debug\net8.0\Lez_04_27_Task.runtimeconfig.json
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\bin\Debug\net8.0\Lez_04_27_Task.dll
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\bin\Debug\net8.0\Lez_04_27_Task.pdb
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.dll
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\refint\Lez_04_27_Task.dll
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.pdb
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\Lez_04_27_Task.genruntimeconfig.cache
+C:\Users\utente\Desktop\CODE\C#\PROGRAMMI_CLASSE\Lez_04_27_Task\Lez_04_27_Task\obj\Debug\net8.0\ref\Lez_04_27_Task.dll
